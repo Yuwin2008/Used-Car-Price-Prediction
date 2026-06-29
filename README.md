@@ -40,7 +40,7 @@ The dataset contains information such as:
 
 ---
 
-## ⚙️ Machine Learning Workflow
+##  Machine Learning Workflow
 
 - Data Cleaning
 - Missing Value Handling
